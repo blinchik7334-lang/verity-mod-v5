@@ -1,0 +1,11 @@
+{
+  "block.verity.verity_box": "Коробка Verity",
+  "item.verity.disc_its_me": "Музыкальная пластинка",
+  "item.verity.disc_its_me.desc": "Horror Skunx - It's me",
+  "item.verity.disc_its_verity": "Музыкальная пластинка",
+  "item.verity.disc_its_verity.desc": "Horror Skunx - It's verity",
+  "item.verity.disc_lord_verity": "Музыкальная пластинка",
+  "item.verity.disc_lord_verity.desc": "Horror Skunx - Lord Verity",
+  "item.verity.verity_spawn_egg": "Яйцо призыва Verity",
+  "entity.verity.verity": "Verity"
+}

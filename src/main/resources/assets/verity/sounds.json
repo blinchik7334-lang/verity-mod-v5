@@ -1,0 +1,26 @@
+{
+  "record.its_me": {
+    "sounds": [
+      {
+        "name": "verity:records/its_me",
+        "stream": true
+      }
+    ]
+  },
+  "record.its_verity": {
+    "sounds": [
+      {
+        "name": "verity:records/its_verity",
+        "stream": true
+      }
+    ]
+  },
+  "record.lord_verity": {
+    "sounds": [
+      {
+        "name": "verity:records/lord_verity",
+        "stream": true
+      }
+    ]
+  }
+}

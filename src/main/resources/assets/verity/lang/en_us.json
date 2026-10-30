@@ -1,0 +1,11 @@
+{
+  "block.verity.verity_box": "Verity Box",
+  "item.verity.disc_its_me": "Music Disc",
+  "item.verity.disc_its_me.desc": "Horror Skunx - It's me",
+  "item.verity.disc_its_verity": "Music Disc",
+  "item.verity.disc_its_verity.desc": "Horror Skunx - It's verity",
+  "item.verity.disc_lord_verity": "Music Disc",
+  "item.verity.disc_lord_verity.desc": "Horror Skunx - Lord Verity",
+  "item.verity.verity_spawn_egg": "Verity Spawn Egg",
+  "entity.verity.verity": "Verity"
+}
